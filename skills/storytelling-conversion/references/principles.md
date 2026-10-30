@@ -1,39 +1,70 @@
-# Narrative techniques and practical tests
+# Narrative techniques as writing decisions
 
-Use these as editorial tools. Choose only techniques that improve the reader's understanding or decision; a piece does not need to demonstrate every technique.
+Select techniques around the communication problem. The goal is a meaningful experience for the reader, not a visible checklist of devices.
 
-## Open a relevant question
+## 1. Expectation and curiosity
 
-Make the opening specific enough to identify its subject while leaving a useful question to answer. A surprising statement needs a truthful explanation. Check what a reader expects from the opening, then compare that expectation with what the piece actually delivers. Repair mismatches rather than making the promise louder.
+Give the reader a recognizable pattern and a relevant uncertainty they want resolved. A hook earns attention when its answer matters to the audience. Choose the question before polishing the opening.
 
-## Supply necessary context
+For explanation, reveal a consequence of a familiar action that deserves another look. For a decision, expose what remains uncertain. For a story, establish an expectation and a credible interruption.
 
-Give readers enough information to understand the actors, task, setting, and stakes. Context can be a few words in product copy or a short scene in a longer narrative. Remove context readers already know. Check ambiguous pronouns and references: a person arriving halfway through should still understand the essential subject.
+**Test:** Can the reader identify the subject and anticipate something useful? Does the body deliver it? Hidden topics and payoffs that merely say "buy our product" create weak curiosity. Surprise can be a better explanation; it need not be sensational.
 
-## Make the idea imaginable
+## 2. Orientation
 
-Use observable actions and relevant objects to explain abstractions. “Select a date on the calendar” describes behavior more clearly than “enhance scheduling efficiency.” Check whether the detail makes the actual product or argument easier to understand. A colorful aside that dominates recall can weaken the message.
+Establish who is doing what, in which situation, with which immediate concern. A familiar task can supply context in a few words. Choose the first consequential moment rather than narrating a whole day. Add only the surrounding facts needed to understand it.
 
-## Choose a suitable arc
+**Test:** Can someone describe what is happening and why it matters? If they picture a room but cannot identify the task or decision, the setup is doing the wrong job. A hypothetical setting can be invented; product behavior cannot.
 
-For explanation, a short situation, interruption, and response may suffice. A case study can follow a documented baseline, intervention, and outcome. A complex launch may need a longer sequence, with a useful answer in each installment. Choose the form around the reader's needs and the available evidence, rather than imposing a fixed number of beats.
+## 3. Concrete, purposeful imagery
 
-## Make details earn their place
+Turn an abstraction into an observable action, object, or comparison. An unresolved comment in a document may explain approval friction better than "inefficiency." Tie the detail to the mechanism or obstacle. Decorative coffee, clocks, and weather do not make generic copy specific.
 
-Ask how a sentence contributes: context, explanation, proof, objection handling, emotional recognition, transition, or action. Preserve details that perform a useful job. When a detail invites an expectation, resolve it or remove the emphasis. Do not remove a necessary qualification merely because it slows the rhythm.
+**Test:** If the reader remembers one thing, is it the intended idea? Remove vivid but irrelevant details. Do not turn a hypothetical image into an implied customer event.
 
-## Describe the actual obstacle
+## 4. Structure matched to purpose
 
-Identify the specific friction between the audience and its desired result. Explain the consequences supported by evidence, relevant constraints, and why a previous approach may have been insufficient in that situation. Do not manufacture fear, shame the reader, or assume every alternative failed. The obstacle can be a process limitation; it need not be a villain.
+| Purpose | Possible structure | What must move |
+|---|---|---|
+| Explain a cause or choice | Situation → complication → response; often and/but/therefore | Each development follows from the previous one |
+| Resolve a recognized problem | Problem → specific consequence → credible response | The response addresses the described consequence |
+| Show a documented change | Starting condition → attempts/decision → intervention → observed outcome | Evidence supports the difference and limits causal claims |
+| Sustain a longer sequence | Promise → developments → reassessment → resolution | Each part adds value and changes understanding |
 
-## Make explanation engaging
+These include familiar forms such as problem/agitation/solution, transformation arcs, and milestone-based sequences. Use the shortest form that develops the idea adequately; shortest does not mean reducing everything to feature copy. Do not escalate stakes to fill a beat.
 
-Use a relevant example, demonstration, conversation, or apt humor to carry information. Check whether a reader can still retrieve the actual lesson. Entertainment should not hide material conditions, interrupt comprehension, or turn a serious subject into a joke at the audience's expense.
+**Test:** Summarize the piece's movement in one sentence. If it says only "introduce features, then repeat them," the structure has not developed an idea.
 
-## End with earned resolution
+## 5. Detail, expectation, and payoff
 
-Complete the central argument and make the next step clear. Returning to an opening detail can help when its meaning has changed. A direct conclusion is sufficient when a callback adds no value. Check whether the ending resolves the opening's question without introducing an unsupported promise.
+Emphasizing a detail asks readers to remember it. Make its relevance worth the effort. Give each sentence a job: orient, develop, demonstrate, substantiate, address uncertainty, transition, or ask.
 
-## Test the decision
+Track the important question opened by the first line, the details needed to answer it, and where the answer arrives. Cut competing loops. Preserve qualifications that affect the decision even when they reduce dramatic neatness.
 
-An editor can assess clarity and factual support. Only observations of real readers can establish their response, and controlled measurement is needed to attribute changes confidently. Avoid translating a technique into a guaranteed attention, memory, or conversion improvement.
+**Test:** What does the reader lose if this sentence disappears? "It sounds persuasive" is insufficient. Preserve a distinctive line that already does its job rather than rewriting it to display effort.
+
+## 6. A specific obstacle and credible mechanism
+
+Show what stands between the audience and its goal. Specify immediate consequences, sustaining constraints, prior attempts when known, and why those attempts may be insufficient here. Do not assume every alternative failed for every reader.
+
+Match the product mechanism to the obstacle. A process limitation, unanswered question, or costly habit can provide tension without inventing an enemy. Help the audience feel understood rather than frightened or blamed.
+
+**Test:** Could the proposed action plausibly address the described problem? A true feature is not automatically relevant.
+
+## 7. An engaging carrier for useful information
+
+Decide what the reader should learn. Choose an involving way to deliver it: a demonstration, useful analogy, small dilemma, apt humor, or recognizable scene. Accuracy need not make facts dry.
+
+Let the reader follow a choice or try an exercise. Provide a local payoff before the CTA. For serious subjects, use recognition and clarity rather than jokes at the audience's expense.
+
+**Test:** Is the piece useful without clicking? Can someone explain its practical point? Entertainment that hides the lesson or material conditions is counterproductive.
+
+## 8. Resolution and changed meaning
+
+Deliver the opening's promise and show what follows. A return to an opening image or question helps when its meaning has developed. Identify the starting uncertainty and the understanding the reader now has; end with an action that follows from it. A clear answer is enough for a direct question.
+
+**Test:** Does the ending feel earned? Would removing a callback lose meaning or only decoration? Novelty is optional; resolution is not.
+
+## Evidence and judgment
+
+These are editorial techniques, not guarantees about brains, recall, or sales. Judge clarity, specificity, movement, and usefulness separately from observed audience response. Verify consequential facts; test uncertain assumptions when the decision warrants it.

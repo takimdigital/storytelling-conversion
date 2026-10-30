@@ -1,4 +1,4 @@
 interface:
   display_name: "Storytelling Conversion"
-  short_description: "Write credible stories with clear, useful payoffs"
-  default_prompt: "Use $storytelling-conversion to improve this marketing story while preserving its facts, voice, and intended action."
+  short_description: "Choose the right message, edit, story, or experiment"
+  default_prompt: "Use $storytelling-conversion to decide what this business communication needs and produce the most useful answer, edit, draft, or next experiment."

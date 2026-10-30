@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SKILL = Path('skills/storytelling-conversion')
 REQUIRED_SKILL_FILES = {
     'SKILL.md', 'LICENSE', 'agents/openai.yaml', 'references/principles.md',
-    'references/production.md', 'references/review.md',
+    'references/production.md', 'references/review.md', 'references/direction.md',
 }
 IGNORED = {'.git', 'dist', '__pycache__', '.venv', 'local-results'}
 

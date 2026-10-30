@@ -1,6 +1,6 @@
 # Narrative review and repairs
 
-This rubric is original editorial guidance, not an empirically calibrated score.
+This rubric supports editorial judgment, not an empirically calibrated score. Correctness is a baseline; it does not establish that an engaging piece is worth reading.
 
 ## Review dimensions
 
@@ -16,12 +16,48 @@ For a substantial audit, mark each relevant dimension as 0 (missing/misleading),
 | Detail selection | Does memorable material reinforce the takeaway? | Replace distracting detail with relevant specifics |
 | Emotional proportionality | Do the stakes reflect what is actually known? | Describe the concrete cost without escalation |
 | Scope and voice | Did the edit preserve the assignment and recognizable voice? | Revert unrelated changes |
+| Reader insight | What useful thing does the reader understand differently? | Develop an explanation or demonstration beyond feature availability |
+| Development, when requested | Does a question or choice move toward useful resolution? | Replace a decorative setup with consequential detail and movement |
 | Action fit | Is the requested step clear and proportionate to reader readiness? | State the available next step accurately |
 | Closure, when useful | Does the ending complete the argument? | Resolve the relevant question without a forced flourish |
 
 ## Repair order
 
-Correct false or misleading implications first. Then fix relevance, missing logic, and comprehension. Adjust rhythm and polish last. Extra imagery cannot rescue an unsupported result; a clever ending cannot repair an unexplained offer.
+Correct false or misleading implications first. Then fix relevance, missing logic, and comprehension. For engaging content, develop the idea before polishing. For a direct answer, stop when resolved. Extra imagery cannot rescue an unsupported result; a clever ending cannot repair an unexplained offer.
+
+## Subtraction and preservation
+
+Identify what already does a job. Keep a strong opening and the same offer unless the user asks to reconsider them. Remove empty motivation, duplication, or a competing ask before adding a section. If a revised free-offer block now pitches a paid tier, review that as an offer change rather than a harmless factual addition.
+
+Check whether removal lost a decision-critical condition and whether an existing omission needs repair. Shorter copy earns no preference merely for being short. For a reader's stated question, locate the actual answer in the revised words; do not rely on adjacent facts to imply it.
+
+## Feature-list and generic-scene checks
+
+For an engaging email, temporarily set aside the product details. Is there a useful point, choice, or demonstration left? If not, the draft may be a product summary with a greeting. Add development, not atmosphere.
+
+Remove an invented clock, kitchen table, or coffee cup. If the argument is unchanged, the detail may be decorative. Specificity comes from a meaningful situation and mechanism, not merely naming objects.
+
+## Worked example: develop an explanation
+
+Fictional facts: a document-review tool shows unresolved comments and links each to its sentence. The brief asks for an engaging email to project leads; no outcome measurements exist.
+
+Flat draft: "Our review tool shows unresolved comments and links them to the relevant sentence. Try it today."
+
+Possible developed draft:
+
+> Subject: Before you call the document finished
+>
+> Suppose a draft is ready to send, but a comment still asks which number belongs in the final paragraph.
+>
+> The document is written. One decision remains open.
+>
+> Before sending your next draft, review the unresolved comments. Decide whether each question needs a wording change or can be closed. The final read-through then has a specific job.
+>
+> Our review tool shows those comments beside the sentences they refer to. You can inspect the question and its context together.
+>
+> Open a draft and check what still needs an answer.
+
+The scene is hypothetical, the reader receives a method, and the product enters at its relevant mechanism. No saved-hours claim or actual-customer story is invented. This is an option, not a universal email template.
 
 ## Reader checks
 
@@ -67,5 +103,7 @@ Diagnosis: the bicycle is easy to recall but does not explain the invoicing task
 - An email or post withholds the central answer solely to demand engagement.
 - A rubric score is presented as measured audience response.
 - A small requested edit triggers a rewrite of the offer or brand voice.
+- A content proposal calls an already covered angle an undiscovered gap.
+- The draft passes factual checks but never develops the requested idea.
 
 Revise any applicable failure before delivery. If a material issue cannot be resolved, name it and supply the strongest supportable alternative.

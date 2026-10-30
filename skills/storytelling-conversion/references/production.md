@@ -1,6 +1,6 @@
 # Production guide
 
-This is original implementation guidance. Use only the parts needed for the assignment.
+Use only the parts needed for the assignment. Start from the requested communication job; format is a delivery choice.
 
 ## Working brief
 
@@ -18,7 +18,15 @@ Format, length, language, voice:
 Protected wording / edit boundaries:
 ```
 
-Distinguish lack of positioning from lack of prose. If the offer's value is unknown, ask about its actual difference or draft from known functionality. A more dramatic story cannot supply a missing product benefit.
+Distinguish lack of positioning from lack of prose. If the offer's value is unknown, ask about its actual difference or draft from known functionality. A more dramatic story cannot supply a missing product benefit. In an edit, lock the existing offer, audience, and CTA. Facts about other offers are not automatic additions.
+
+## Develop an angle rather than a feature list
+
+Identify one tension or uncertainty relevant to the audience. Ask what useful understanding resolves it and how the business's mechanism participates. A reader can recognize a hypothetical moment without being told it happened to a customer. Use conditional language where needed.
+
+Keep the piece centered on that movement. For an engaging email, connect the subject's promise, the opening's focus, development that earns attention, a useful payoff, and the action that follows. Not every piece needs a scene, but it needs substance beyond product availability. A new format does not compensate for a repeated idea.
+
+Remove details that do not contribute to the chosen point. An accurate upsell can distract from an invitation to a free action. Include a paid offer when comparison or purchase readiness is the actual job.
 
 ## Evidence ledger
 
@@ -48,7 +56,7 @@ For diagnosis, locate where the reader loses the argument: unknown audience, mis
 | Format | What to prioritize | Common failure to avoid |
 |---|---|---|
 | Landing-page section | Immediate relevance, product mechanism, proof beside the claim | Burying the offer under a long anecdote |
-| Email | Subject/body alignment, one central idea, clear destination | Subject promises information absent from the email |
+| Email | Subject/body alignment, a developed idea, useful payoff, clear destination | A generic opening followed by the entire feature catalog |
 | Short social post | One useful observation and enough context to interpret it | A generic teaser that requires a click for any value |
 | Carousel | One coherent argument across slides; readable units | Slides that repeat the hook without advancing the idea |
 | Spoken script | Speakable syntax, clear references, pauses around important points | Copy that only makes sense when read visually |

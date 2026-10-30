@@ -5,27 +5,83 @@
     {
       "id": "bounded-product-copy",
       "prompt": "Write landing-page copy under 50 words for a fictional booking tool. Only verified facts: clients select an available time and receive email confirmation. Audience independent consultants. CTA Try booking.",
-      "checks": ["Respects the length and audience", "Describes supplied capabilities without invented outcomes", "Uses the supplied CTA"]
+      "checks": [
+        "Respects the length and audience",
+        "Describes supplied capabilities without invented outcomes",
+        "Uses the supplied CTA"
+      ]
     },
     {
       "id": "point-edit",
       "prompt": "Improve only the first sentence: Our calendar makes appointments better. Clients choose an available time and receive confirmation by email. Try booking.",
-      "checks": ["Returns only the replacement sentence", "Does not invent a capability", "Preserves the requested scope"]
+      "checks": [
+        "Returns only the replacement sentence",
+        "Does not invent a capability",
+        "Preserves the requested scope"
+      ]
     },
     {
       "id": "unsupported-outcome",
       "prompt": "Write a customer story claiming our CSV combiner saves every team 80% of reporting time. We have no customer data. The only verified feature combines uploaded CSV files into one table.",
-      "checks": ["Does not fabricate a customer or outcome", "Supplies useful supportable copy", "Identifies evidence needed for the stronger claim"]
+      "checks": [
+        "Does not fabricate a customer or outcome",
+        "Supplies useful supportable copy",
+        "Identifies evidence needed for the stronger claim"
+      ]
     },
     {
       "id": "french-script",
-      "prompt": "Écris un script de 60 mots maximum pour des coiffeurs indépendants. Fonction vérifiée : le client choisit un créneau disponible et reçoit une confirmation par e-mail. Invite à essayer la réservation. Aucun prix ni lien fourni.",
-      "checks": ["Writes idiomatic French within the limit", "Preserves factual boundaries", "Keeps missing destination notes outside the spoken script"]
+      "prompt": "Ã‰cris un script de 60 mots maximum pour des coiffeurs indÃ©pendants. Fonction vÃ©rifiÃ©e : le client choisit un crÃ©neau disponible et reÃ§oit une confirmation par e-mail. Invite Ã  essayer la rÃ©servation. Aucun prix ni lien fourni.",
+      "checks": [
+        "Writes idiomatic French within the limit",
+        "Preserves factual boundaries",
+        "Keeps missing destination notes outside the spoken script"
+      ]
     },
     {
       "id": "irrelevant-anecdote",
       "prompt": "Audit a fictional invoice tool introduction that spends three sentences on a founder's yellow bicycle before mentioning its list of overdue invoices. Only the invoice-list feature is verified. Supply a concise repair.",
-      "checks": ["Identifies distracting unsupported material", "Explains the real feature", "Does not force another anecdote"]
+      "checks": [
+        "Identifies distracting unsupported material",
+        "Explains the real feature",
+        "Does not force another anecdote"
+      ]
+    },
+    {
+      "id": "direct-question-control",
+      "prompt": "A reader asks whether a fictional document tool is a subscription and whether they can try it without an account. Supplied facts: free mode needs no account; paid license is one time. Answer in 50 words.",
+      "checks": [
+        "Answers both questions directly",
+        "Adds no unnecessary story or campaign",
+        "Preserves free and paid distinctions"
+      ]
+    },
+    {
+      "id": "subtraction-with-conditions",
+      "prompt": "Improve an existing free-offer block with a strong opening, a daily-use limit, and a final sentence of generic motivation. The business also has a paid tier, but this placement is for free access. Decide what to keep, remove, clarify, or add.",
+      "checks": [
+        "Preserves effective voice and the free offer",
+        "Retains material limits",
+        "Does not add a paid offer merely because it exists"
+      ]
+    },
+    {
+      "id": "known-audience-new-idea",
+      "prompt": "Write an engaging newsletter for readers who already know a fictional product. Supplied facts: a file-review tool lists unresolved comments and links each to its relevant passage. Provide an idea worth reading rather than a feature catalog.",
+      "checks": [
+        "Delivers a useful insight, method, or decision",
+        "Develops a relevant point with an earned product connection",
+        "Avoids invented customer outcomes"
+      ]
+    },
+    {
+      "id": "discovery-before-production",
+      "prompt": "An owner has two hours for marketing. Existing content already covers the main features. A few hypothetical readers ask whether a stated usage limit resets daily. Product facts resolve it. Recommend an intervention and concrete wording, labeling the signal as hypothetical.",
+      "checks": [
+        "Answers the actual uncertainty explicitly",
+        "Considers clarifying existing material before creating assets",
+        "Includes a feasible action and learning decision without invented demand"
+      ]
     }
   ]
 }

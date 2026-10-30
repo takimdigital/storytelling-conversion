@@ -6,7 +6,7 @@
 
 **An AI agent skill for clear, credible marketing stories.**
 
-Write sharper emails, landing pages, social posts, and sales narratives while keeping claims grounded in evidence.
+Decide whether to answer, edit, create, investigate, or plan. Apply narrative techniques where they help, with claims grounded in evidence.
 
 [![Validate](https://github.com/takimdigital/storytelling-conversion/actions/workflows/validate.yml/badge.svg)](https://github.com/takimdigital/storytelling-conversion/actions/workflows/validate.yml)
 [![Release](https://img.shields.io/github/v/release/takimdigital/storytelling-conversion)](https://github.com/takimdigital/storytelling-conversion/releases/latest)
@@ -18,7 +18,7 @@ Write sharper emails, landing pages, social posts, and sales narratives while ke
 
 ## What it does
 
-Storytelling Conversion gives an AI assistant a practical workflow for writing and editing marketing narratives: understand the audience, build a coherent argument, draft from verified facts, then check the result against the brief.
+Storytelling Conversion gives an AI assistant a workflow for business communication: identify the work needed, find a useful point, develop it through a fitting approach, and check it against the brief. It can recommend changing an existing message instead of creating another asset.
 
 Use it to:
 
@@ -28,6 +28,8 @@ Use it to:
 - Diagnose a story that sounds polished but never makes its point.
 - Adapt a narrative for another format or language.
 - Make a precise edit while preserving the rest of the copy.
+- Discover whether an existing answer is buried, unclear, or missing.
+- Choose a small communication experiment within a realistic time budget.
 
 The skill keeps customer stories, illustrations, and measured results distinct. It gives unsupported claims a useful alternative and an evidence requirement. Short utility copy stays short.
 
@@ -51,7 +53,7 @@ Paste this into Codex:
 $skill-installer install https://github.com/takimdigital/storytelling-conversion/tree/main/skills/storytelling-conversion
 ```
 
-For a version-pinned installation, replace `main` with `v1.0.0`. If an existing installation conflicts, review it before replacing it. If the skill does not appear, restart Codex. See the [official skill documentation](https://learn.chatgpt.com/docs/build-skills).
+For a version-pinned installation, replace `main` with `v1.1.0`. If an existing installation conflicts, review it before replacing it. If the skill does not appear, restart Codex. See the [official skill documentation](https://learn.chatgpt.com/docs/build-skills).
 
 ### Manual installation
 
@@ -101,11 +103,12 @@ More prompts and illustrative outputs: [examples](examples/README.md).
 
 ## How it works
 
-1. **Match the assignment.** Identify the audience, intended action, format, voice, and edit boundaries.
-2. **Build the argument.** Connect the situation, obstacle, response, and supported change.
-3. **Draft from evidence.** Explain how the offer works; distinguish facts from illustrations.
-4. **Review and repair.** Check relevance, coherence, claim support, memorable details, and the next action.
-5. **Deliver proportionately.** Return a usable draft or focused edits, with material limitations kept separate.
+1. **Choose the work.** Answer directly, edit, create, investigate, or propose an experiment.
+2. **Find the useful point.** Choose a specific uncertainty, distinction, demonstration, or decision.
+3. **Develop the idea.** Draft the payoff before polishing the hook; connect the product where it belongs.
+4. **Keep it grounded.** Preserve factual support, material terms, and the scope of the offer.
+5. **Review the result.** Check whether it resolves the actual question and earns the reader's attention.
+6. **Deliver proportionately.** Give the requested work, with material limitations kept separate.
 
 The skill includes techniques for openings, context, concrete imagery, structure, purposeful details, specific obstacles, engaging explanations, and meaningful endings. It selects what the assignment needs.
 
@@ -118,6 +121,7 @@ skills/storytelling-conversion/
 ├── agents/openai.yaml       Codex display metadata
 └── references/
     ├── principles.md        Narrative choices and practical tests
+    ├── direction.md         Discovery and small marketing decisions
     ├── production.md        Briefs, evidence, formats, and experiments
     └── review.md            Review rubric, examples, and repairs
 ```
@@ -126,7 +130,7 @@ The installed skill is instruction-only. It requires no API key, account connect
 
 ## Quality and limitations
 
-Automated checks validate package structure, local links, example fixtures, and reproducible builds on Windows and Linux. Writing scenarios support qualitative review; they do not measure audience response or establish conversion gains. The skill cannot verify missing customer evidence or guarantee results.
+Automated checks validate structure, local links, scenario fixtures, and reproducible builds on Windows and Linux. Writing scenarios support qualitative review; they do not measure audience response or conversion gains. Exploratory with/without checks informed the workflow revisions, but did not establish consistent superiority over an assistant without the skill. See [evaluation guidance](evals/README.md). The skill cannot verify missing customer evidence or guarantee results.
 
 Drafting copy does not authorize publication, scheduling, account access, spending, or deployment. Follow the permissions and project rules in your own environment.
 
