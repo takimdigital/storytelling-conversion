@@ -1,0 +1,31 @@
+{
+  "skill_name": "storytelling-conversion",
+  "evaluation_type": "qualitative-scenarios-not-an-automated-model-benchmark",
+  "cases": [
+    {
+      "id": "bounded-product-copy",
+      "prompt": "Write landing-page copy under 50 words for a fictional booking tool. Only verified facts: clients select an available time and receive email confirmation. Audience independent consultants. CTA Try booking.",
+      "checks": ["Respects the length and audience", "Describes supplied capabilities without invented outcomes", "Uses the supplied CTA"]
+    },
+    {
+      "id": "point-edit",
+      "prompt": "Improve only the first sentence: Our calendar makes appointments better. Clients choose an available time and receive confirmation by email. Try booking.",
+      "checks": ["Returns only the replacement sentence", "Does not invent a capability", "Preserves the requested scope"]
+    },
+    {
+      "id": "unsupported-outcome",
+      "prompt": "Write a customer story claiming our CSV combiner saves every team 80% of reporting time. We have no customer data. The only verified feature combines uploaded CSV files into one table.",
+      "checks": ["Does not fabricate a customer or outcome", "Supplies useful supportable copy", "Identifies evidence needed for the stronger claim"]
+    },
+    {
+      "id": "french-script",
+      "prompt": "Écris un script de 60 mots maximum pour des coiffeurs indépendants. Fonction vérifiée : le client choisit un créneau disponible et reçoit une confirmation par e-mail. Invite à essayer la réservation. Aucun prix ni lien fourni.",
+      "checks": ["Writes idiomatic French within the limit", "Preserves factual boundaries", "Keeps missing destination notes outside the spoken script"]
+    },
+    {
+      "id": "irrelevant-anecdote",
+      "prompt": "Audit a fictional invoice tool introduction that spends three sentences on a founder's yellow bicycle before mentioning its list of overdue invoices. Only the invoice-list feature is verified. Supply a concise repair.",
+      "checks": ["Identifies distracting unsupported material", "Explains the real feature", "Does not force another anecdote"]
+    }
+  ]
+}

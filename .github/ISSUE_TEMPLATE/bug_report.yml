@@ -1,0 +1,30 @@
+name: Report a problem
+description: Report a writing, installation, or packaging problem.
+title: "[Bug] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Skill version and assistant
+      description: Include the release, assistant/model, and operating system when relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps or sanitized prompt
+      description: Include only fictional or approved public information.
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true

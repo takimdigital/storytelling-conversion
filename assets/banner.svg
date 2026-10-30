@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Storytelling Conversion</title>
+  <desc id="desc">An AI agent skill for clear, credible marketing stories. Audience, argument, evidence, action.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b32"/><stop offset="1" stop-color="#182944"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#67e8c4"/><stop offset="1" stop-color="#83b7ff"/></linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="22" fill="url(#bg)"/>
+  <path d="M960 0v320M1080 0v320M1200 0v320M900 80h380M900 160h380M900 240h380" stroke="#ffffff" stroke-opacity=".045"/>
+  <rect x="56" y="47" width="165" height="30" rx="15" fill="#67e8c4" fill-opacity=".12"/>
+  <text x="77" y="67" fill="#8aefcf" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">AI AGENT SKILL</text>
+  <text x="56" y="142" fill="#f5f8ff" font-family="Arial,sans-serif" font-size="55" font-weight="700" letter-spacing="-1.7">Storytelling Conversion</text>
+  <text x="58" y="185" fill="#b8c9df" font-family="Arial,sans-serif" font-size="23">Clear, credible marketing stories.</text>
+  <path d="M58 234h754" stroke="url(#accent)" stroke-width="2"/>
+  <g fill="#d3e2f3" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">
+    <text x="58" y="269">AUDIENCE</text><text x="265" y="269">ARGUMENT</text><text x="484" y="269">EVIDENCE</text><text x="710" y="269">ACTION</text>
+  </g>
+  <g fill="#8aefcf"><circle cx="58" cy="234" r="5"/><circle cx="265" cy="234" r="5"/><circle cx="484" cy="234" r="5"/><circle cx="812" cy="234" r="5"/></g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="968" y="74" width="190" height="172" rx="18" stroke="#83b7ff" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M1001 117h120M1001 144h87M1001 171h101" stroke="#c7d8ed" stroke-width="5"/>
+    <path d="m1064 208 13 13 32-35" stroke="#8aefcf" stroke-width="6"/>
+  </g>
+</svg>
