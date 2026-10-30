@@ -17,10 +17,12 @@ Use excerpts to explain a preference. Shorter is not automatically better; extra
 
 Revise a demonstrated weakness, then use unseen tasks to check whether the correction transfers. Keep strong existing behavior, including plain answers and useful restraint. Avoid simply teaching the expected wording of the evaluation prompts.
 
-## Current evidence limits
+## Evidence limits by version
 
-Development included an exploratory two-agent comparison using GPT-6 Luna at low reasoning effort, followed by revisions and new tasks. Both conditions handled basic questions; the initial skill did not clearly improve the writing. Later drafts showed some changes in focus and edit scope, but the comparison did not establish consistent creative or strategic superiority.
+Versions 1.0.0 and 1.1.0 included an exploratory two-agent comparison using GPT-6 Luna at low reasoning effort, followed by revisions and new tasks. Both conditions handled basic questions; the initial skill did not clearly improve the writing. Later drafts showed some changes in focus and edit scope, but the comparison did not establish consistent creative or strategic superiority.
 
 The same two agents continued through follow-up rounds, so those rounds are not independent samples. There was no blind human panel, repeated sampling, customer response measurement, statistical analysis, or measured conversion result. Business-specific artifacts remain local; they are not published performance evidence.
+
+Version 1.2.0 is a manual reconstruction of the eight-principle method, with expanded mechanics and integrated authored examples. No new model runs, subagents, or behavioral comparisons were used for that revision. Its completeness audit is not a writing-performance result. User evaluation remains pending.
 
 For a stronger claim, repeat independent trials with held-out briefs and multiple qualified reviewers. Test actual audience behavior separately when relevant and authorized. Do not turn a local preference into a sales-performance claim.

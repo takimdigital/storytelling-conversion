@@ -1,4 +1,4 @@
 interface:
   display_name: "Storytelling Conversion"
-  short_description: "Choose the right message, edit, story, or experiment"
-  default_prompt: "Use $storytelling-conversion to decide what this business communication needs and produce the most useful answer, edit, draft, or next experiment."
+  short_description: "Apply eight principles to purposeful business stories"
+  default_prompt: "Use $storytelling-conversion to apply the eight storytelling principles to this business request, then deliver the appropriate edit, content, or narrative plan."

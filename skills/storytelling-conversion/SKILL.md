@@ -1,105 +1,73 @@
 ---
 name: storytelling-conversion
-description: Diagnose and improve business messaging through direct answers, focused edits, new emails or posts, content-opportunity discovery, and small marketing experiments. Use when a user wants stronger storytelling, more engaging content, an existing message improved, or a decision about what communication to change next. Adapt narrative techniques to the audience and situation; a useful outcome can be deleting copy or answering plainly.
+description: Apply eight storytelling principles to business communication: predictive processing, establishing shots, word pictures, story structure, Chekhov's gun, a specific villain, sugar coating, and bookending. Use for writing or improving emails, posts, landing pages, scripts, sales narratives, and content strategy; also for discovering what existing content to edit, remove, or develop. Adapt the method to the business, audience, and request; answer direct factual questions plainly.
 ---
 
 # Storytelling Conversion
 
-Help the business communicate something worth understanding and give its audience a reason to care. First decide what work is needed. Then use narrative craft to make that work more specific, engaging, and useful. A clear feature description is a foundation; for an engaging email or story, it is rarely the entire deliverable.
+Make the audience recognize a situation, care about an unresolved question, experience a purposeful progression, and reach an earned resolution. Apply the eight principles as a connected writing method. A feature summary or a list of content ideas does not demonstrate that method.
 
-## Resources
+## Select the work without replacing the request
 
-- Read [principles.md](references/principles.md) for an engaging new piece or a substantive narrative repair. It turns techniques into writing decisions.
-- Read [production.md](references/production.md) when writing a new piece, adapting formats, or designing an audience test.
-- Read [review.md](references/review.md) when auditing, editing, or checking a final draft. It includes worked examples and repair rules.
-- Read [direction.md](references/direction.md) for discovery, prioritization, or a request about what marketing to do next.
-
-Do not load every reference for a one-line edit. No external tools are required when the brief and proof are supplied. Browse only to resolve material factual or current platform questions; don't fabricate access to analytics or customer interviews.
-
-## 1. Decide what the request needs
-
-Read the request before selecting a format. A business mention is not a request for a campaign. Respect length, language, audience, voice, offer, and approval state.
-
-| Need | Useful response |
+| Request | Work to do |
 |---|---|
-| A direct product or message question | Answer plainly; stop when resolved. Do not add a story to demonstrate the skill. |
-| An existing piece feels weak | Diagnose the loss of meaning or attention. Keep strong lines, remove distractions, and repair what remains. |
-| Something new must be written | Choose an audience insight and deliberate narrative approach; deliver the piece. |
-| An opportunity needs discovery | Inspect existing material and audience evidence; identify the smallest valuable change or missing communication. |
-| What marketing should happen next? | Choose a bottleneck and an experiment or discovery action, with a decision it will inform. |
+| Direct factual question | Answer the question clearly and stop. Use an example only if it helps understanding. |
+| Existing copy, email, page, or plan | Diagnose it through the eight principles; preserve what works, then cut, clarify, reorder, develop, or replace what fails. |
+| New content | Design the audience experience and narrative, then write the requested piece. |
+| Discovery or marketing direction | Inspect existing material and audience context; identify the most valuable narrative gap and choose an edit, new piece, or coherent sequence. |
 
-Modes can combine: discovery may lead to an edit rather than new content. For a point edit, change only the requested part and what coherence requires. In an edit, introducing another offer, paid tier, or CTA is a scope change even when accurate. Recommend it separately only if there is a material reason.
+Keep the user's offer, audience, voice, language, format, and edit boundaries. A narrow edit does not authorize changing the offer. A business mention does not automatically call for a campaign.
 
-Inspect supplied material and relevant project instructions before asking questions. Capture:
+For substantive writing, narrative editing, or content planning, read [principles.md](references/principles.md) in full before designing the work. It contains the mechanics and exercises behind the eight principles. For a one-line correction, use the relevant principle only.
 
-- Who is reading and the situation that makes this relevant now.
-- Their current situation, desired result, and main uncertainty. Distinguish observed audience language from a proposed angle.
-- One takeaway and one next action.
-- Format, word/time budget, tone, and protected phrases.
-- Verified product facts, customer evidence, and unknowns.
+## The eight principles: operational core
 
-Ask only for missing information that materially changes the result. Otherwise state a reasonable assumption briefly and draft. Unknown proof cannot be replaced by a creative assumption. Use a narrower factual claim, or mark a separate editorial note as `[NEED: specific evidence]`.
+1. **Predictive processing:** Identify the pattern the audience expects, open a relevant uncertainty, then resolve it with a truthful turn they cannot completely predict. A sensory anchor can begin the pattern. Inspect the first line for both intelligible subject and a reason to continue.
+2. **Establishing shot:** Orient the audience quickly: where are we, who is here, what is the mood, and what deserves attention? Establish the world of the problem before presenting its solution. An apt analogy can establish context and tension together.
+3. **Word pictures:** Replace summary language with observable actions and imaginable particulars. Use relevant color, pattern, texture, or shine where the format supports it. Read aloud or use a mental read-through: identify the image left behind and ensure it carries the intended takeaway.
+4. **Story structure:** Choose the audience's desired feeling and account for its current awareness. Use Save the Cat for rhythmic development, Problem-Agitation-Solution for momentum, the Hero's Journey for transformation, or And-But-Therefore for causal clarity. Map the actual beats before drafting.
+5. **Chekhov's gun:** Every emphasized detail creates an expectation. Map each setup to its payoff; cut or resolve abandoned loops. Give each line a job such as building desire, handling an objection, supplying proof, or establishing legitimate urgency. Necessary orientation and conditions also earn their place.
+6. **The villain / Mega Mean Mouse:** Specify the force obstructing the audience's goal. Build it through consequences, sustaining external forces, previous attempted solutions, and why those attempts fail in this situation. Give the obstacle a recognizable mechanism and track record; then show how the offer addresses it.
+7. **Sugar coating:** Separate the medicine, what the audience needs to understand, from the sugar, what it wants to experience. Deliver the information through appropriate conflict, drama, humor, movement, personality, or discovery. The carrier must help convey the lesson.
+8. **Bookending:** Plan the emotional beginning and ending. Plant an image, question, or belief worth returning to. Resolve it with changed meaning: satisfy the original desire through an earned turn. Remove the ending mentally; if nothing meaningful is lost, improve the resolution.
 
-## 2. Find the point worth making
+Consider all eight for substantial work. This does not mean inserting eight visible devices into every paragraph. Structure, relevance, and payoff work across the whole piece; a short answer may need no narrative at all. Do not use proportionality as a reason to skip the method on a request for engaging content.
 
-For new content or a substantial rewrite, determine what the reader should understand differently afterward. Look for a specific friction, mistaken expectation, unresolved choice, surprising implication, or useful demonstration. Connect it to what the business enables. "This product has features" is not yet an angle.
+## Design before polishing
 
-Consider genuinely different approaches before choosing: a demonstration teaches through action; an objection-led explanation resolves uncertainty; a recognizable scene shows a decision; a reframing reveals a useful distinction. Choose by audience readiness, purpose, and facts. Variations of one headline are not different approaches. Show alternatives only when useful to the user.
+Read available business facts, audience language, existing material, and applicable project instructions. Resolve material unknowns from supplied sources before asking questions. If the audience's motives are uncertain, propose a plausible angle without claiming it was observed.
 
-Use a short design note when helpful: audience situation → question/tension → useful realization → product connection → next action. This is a planning aid, not a mandatory visible template. An angle can be a reasoned hypothesis without pretending it came from research.
+For a new piece or substantive rewrite, establish these working decisions:
 
-For an engaging new piece, draft the payoff before polishing the hook: what exact distinction, decision, or useful action will the reader take away? Then build an opening that makes that payoff relevant and development that earns it. When the audience already knows the offer, another explanation of its availability is usually a weak payoff. Use a demonstration, consequential choice, or new implication of a known fact instead. Choose between at least two materially different concepts before drafting; keep those working sketches out of a request for copy only.
+```text
+Audience situation and current awareness:
+Intended action and desired emotional movement:
+Specific obstacle: consequences / external forces / attempts / failure mechanism:
+Medicine and sugar:
+Structure and actual beats:
+Opening prediction or question; relevant sensory anchor if useful:
+Word picture that should remain:
+Important setups and their payoffs:
+Closing return and changed meaning:
+Product mechanism, evidence, and scope limits:
+```
 
-Choose a form that develops the idea at the available length. A short scene can have an expectation, complication, decision, and changed understanding. A practical explanation can use a demonstration. Keep the audience's decision central. An entertaining founder anecdote must connect to the reader's problem.
+Use these as design decisions, not a form to paste into every answer. For limited edits, map only the affected decisions. When choosing a new angle, distinguish genuinely different audience tensions or narrative approaches rather than produce synonymous hooks.
 
-Select relevant techniques from the principles reference. Do not force every technique into a piece or invent a twist, antagonist, or crisis to fill a template. Neutral comparison, direct instructions, and transaction messages often need direct explanation instead.
+Write the intended resolution and the opening promise together, build the middle to earn that resolution, then polish the hook. Let the product participate where its mechanism resolves the identified obstacle. Keep useful information and a meaningful experience in the body; do not replace the payoff with a CTA.
 
-## 3. Make the idea work on the page
+## Execute the selected mode
 
-In an engaging piece, establish a reason to continue beyond product availability. Put the reader in a recognizable task or present a useful question. Develop the point through relevant detail or action, then deliver the promised insight. Let the product enter where it helps the reader act on that insight.
+- For new content, sequences, and format adaptation, read [production.md](references/production.md). It includes original worked examples and a launch-sequence map.
+- For diagnosis and edits, read [review.md](references/review.md). Use its setup/payoff ledger, line-job pass, and eight-principle inspection. Removal is one possible repair; missing context, stakes, imagery, or resolution may require development.
+- For discovery and planning, read [direction.md](references/direction.md). Find the missing audience understanding or narrative stage before proposing another asset or channel.
 
-Give an email or post something useful without clicking: a small method, clearer decision, explanation, or observation. Keep one central movement. Do not catalog every verified feature. Include pricing, limits, and other details where they resolve a relevant question rather than appending them by default.
+Review the completed work through the relevant eight-principle checks. An accurate draft can still fail because its opening is predictable, its problem abstract, its information dry, or its ending unearned. Repair the actual weakness instead of adding atmospheric detail or a feature list.
 
-For an edit, test subtraction first. Remove unsupported social proof, repeated benefits, generic motivation, and competing asks. Preserve the voice and effective lines. Add missing logic when needed, but make additional copy earn its space.
+## Grounding and delivery
 
-Subtraction is a diagnostic, not the goal. Add missing limits, conditions, or explanations when they change the audience's decision. Compare meaning before and after editing; a shorter version that leaves the offer ambiguous is worse.
+Use real product behavior and supported claims. Fictional scenes, analogies, sensory details, and possible experiences are legitimate creative tools; make their status clear wherever they could be mistaken for actual customer evidence. Do not invent testimonials, statistics, deadlines, scarcity, or outcomes. Consequences must be credible, and external forces must not become fabricated accusations.
 
-Use the principles reference to repair a specific weakness: an opening without a question, a scene without orientation, an abstraction without a picture, a sequence without causality, or an ending without resolution. Do not force a dramatic twist into a modest benefit.
+Use the audience's language and preserve the requested voice. Keep surprise and tension; remove stock slogans and mechanical rhetorical reveals. In another language, recreate the intended experience idiomatically while preserving facts and terms.
 
-## 4. Keep creativity grounded
-
-Separate verified events, attributed customer reports, hypothetical illustrations, and recommendations. A scene introduced with "Imagine" or "Suppose," a conditional example, or a general second-person possibility can be vivid without becoming a testimonial. Label it wherever a reader could mistake it for a real account. Never invent quotations, measured outcomes, customer identities, deadlines, scarcity, or product behavior.
-
-Make the offered solution's mechanism explicit: what the reader does, what the product does, and why that addresses the obstacle. A satisfying narrative ending is not proof of effectiveness. State material effort, costs, and conditions when they affect the reader's decision.
-
-Use concrete details that advance the central message. Keep emotional stakes proportionate to evidence. Describe real constraints without shaming the reader or declaring competitors, institutions, or groups malicious. Acknowledge that an alternative may work for a different audience.
-
-Write natural prose using the user's vocabulary. Avoid generic motivational openings, manufactured revelations, rhetorical question-and-answer chains, and formulaic contrast slogans. For French or another requested language, write idiomatically and preserve the underlying facts; do not translate wordplay mechanically.
-
-## 5. Review the result, not the checklist
-
-Use the review reference for substantial work. Before delivery, check:
-
-1. The intended audience can identify the topic and relevance promptly.
-2. The opening's promise is actually fulfilled within the piece, unless the user explicitly requests a disclosed serial format.
-3. The sequence explains what changes and why; the offer follows logically.
-4. The most memorable detail supports the takeaway.
-5. Every consequential factual claim has support or has been narrowed.
-6. The requested length, voice, language, and edit scope are respected.
-7. The next action is concrete and available; any URL or feature claim is verified before presenting it as usable.
-
-If the brief supplies a specific audience question, make the draft answer it explicitly. Adjacent true facts can leave uncertainty unresolved: stating a deadline alone does not explain whether late submissions are accepted. Do not mistake implication for clarity.
-
-For an engaging piece, also ask: what does the reader learn or see differently, where does the piece move, and why continue after the first line? If setting aside the feature list leaves nothing useful, develop the idea. If replacing nouns lets it sell an unrelated business, make the situation and mechanism more specific. Direct answers and utility copy do not need a narrative arc.
-
-Read the draft as a reader already familiar with the product. If it simply restates the brief, do one development pass: sharpen the useful payoff, add the missing action or explanation, and remove details competing with it. Do not add atmosphere or a twist solely to make the revision longer.
-
-Fix failed checks instead of merely attaching a score. Stop when the draft meets the brief and remaining changes are matters of taste. Do not claim a draft is perfect, audience-tested, or proven to convert because it passed editorial review.
-
-## 6. Deliver the work the user needs
-
-For a point edit, give the revised line and a brief reason if useful. For a full piece, lead with the usable draft, then give concise notes on the main narrative choice, material assumptions, and missing evidence. Keep editorial placeholders out of apparently publication-ready copy.
-
-For an audit, prioritize the largest comprehension, credibility, or relevance problems. Quote only enough of the user's draft to locate each issue. Provide a concrete repair and expected observable effect. For requests to learn the method, explain the decisions and use a labeled example.
-
-Suggest a measured experiment only when relevant. Editorial confidence is different from observed audience response. Drafting does not authorize publishing, scheduling, account access, purchasing, or deployment.
+Deliver the requested answer, edit, piece, or plan first. Add design explanation only when asked or useful to a decision. For an audit, connect each important failure to a concrete repair. Keep material assumptions and missing proof separate from finished copy. Drafting is not permission to publish, schedule, access accounts, or spend.

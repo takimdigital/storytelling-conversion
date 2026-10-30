@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.2.0 — 2026-10-30
+
+- Rebuilt the skill around eight explicit storytelling principles and their practical procedures.
+- Restored sensory anchors, the four-question establishing shot, systematic word-picture editing, and mental-image inspection.
+- Added explicit Save the Cat, Problem-Agitation-Solution, Hero's Journey, and And-But-Therefore selection by audience state and intended feeling.
+- Restored the four-step Mega Mean Mouse build, medicine/sugar pairing, setup/payoff ledger, line-job pass, and emotional bookending procedure.
+- Connected email, editing, discovery, and marketing-sequence guidance to the same narrative method.
+- Replaced generic showcase examples with original integrated craft examples and a worked obstacle build.
+- Personally audited the instructions; no new agent or behavioral comparison was run for this release. User evaluation remains pending.
+
 ## 1.1.0 — 2026-10-30
 
 - Added routing for direct answers, edits, new writing, discovery, and small marketing decisions.

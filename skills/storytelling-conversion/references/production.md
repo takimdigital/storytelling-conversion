@@ -1,85 +1,97 @@
-# Production guide
+# Production: from narrative design to finished content
 
-Use only the parts needed for the assignment. Start from the requested communication job; format is a delivery choice.
+Use the eight-principle design in SKILL.md and the detailed craft reference before choosing a deliverable shape. Make the actual writing carry the method; do not substitute a strategy explanation for the requested copy.
 
-## Working brief
+## Working sequence
 
-Use this compact note internally or show it when the user requests strategy:
+1. Establish the reader's awareness, immediate situation, desired outcome, and emotional starting point.
+2. Identify the specific obstacle with the four-step villain build. Separate verified audience evidence from hypotheses.
+3. Specify the medicine, sugar, and emotional endpoint. Decide what the audience should understand or experience before acting.
+4. Pick a structure and map real beats. Plan the opening uncertainty, purposeful word picture, and closing return together.
+5. Draft the movement between them. Make the product's mechanism relevant at the point the argument needs it.
+6. Edit line jobs and close loops. Perform the opening-only, mental-image, and ending-removal inspections.
 
-```text
-Audience and immediate situation:
-What they currently believe:
-What this piece should help them understand/do:
-Offer and actual mechanism:
-Main objection:
-Verified facts and sources:
-Missing evidence:
-Format, length, language, voice:
-Protected wording / edit boundaries:
-```
+Adapt the depth to the assignment. For a narrow correction, preserve the surrounding design. For a new narrative, do not skip design and jump directly to a benefit list.
 
-Distinguish lack of positioning from lack of prose. If the offer's value is unknown, ask about its actual difference or draft from known functionality. A more dramatic story cannot supply a missing product benefit. In an edit, lock the existing offer, audience, and CTA. Facts about other offers are not automatic additions.
+## Original worked example: one email
 
-## Develop an angle rather than a feature list
+Fictional facts: a document-review tool shows unresolved comments beside their relevant passages. No customer results or timing claims are supplied. Audience: project leads preparing a draft for approval.
 
-Identify one tension or uncertainty relevant to the audience. Ask what useful understanding resolves it and how the business's mechanism participates. A reader can recognize a hypothetical moment without being told it happened to a customer. Use conditional language where needed.
+**Design:** The reader begins relieved that the draft is ready, encounters uncertainty, and ends with a clearer basis for completion. The obstacle is treating completed prose as completed decisions. The medicine is that distinction. The sugar is recognition of a last-minute unresolved detail. Use And-But-Therefore, a concrete highlight, and a return to the opening's meaning of finished.
 
-Keep the piece centered on that movement. For an engaging email, connect the subject's promise, the opening's focus, development that earns attention, a useful payoff, and the action that follows. Not every piece needs a scene, but it needs substance beyond product availability. A new format does not compensate for a repeated idea.
+> Subject: The yellow mark on the last page
+>
+> Imagine the proposal is ready to send. The paragraphs are polished. Then you reach a yellow comment on the final page: which delivery date are we promising?
+>
+> The writing is finished. The decision is still open.
+>
+> Before sending your next draft, scan its unresolved comments. For each one, decide whether the answer changes the text or the question can be closed. Give the last read-through a job beyond catching typos.
+>
+> Our review tool keeps unresolved comments beside the passages they concern, so you can inspect the question and its context together.
+>
+> That yellow mark belongs in the final check. A finished proposal needs an answer there, too.
+>
+> Open a draft and review what remains unresolved.
 
-Remove details that do not contribute to the chosen point. An accurate upsell can distract from an invitation to a free action. Include a paid offer when comparison or purchase readiness is the actual job.
+**Mechanics:** The subject plants an image and question. The opening establishes who, situation, mood, and focus. The turn changes the meaning of finished. The body supplies a method, not just a sales promise. The product addresses the actual obstacle. The ending returns to the mark with a different significance. The entire scene is explicitly hypothetical.
 
-## Evidence ledger
+This example illustrates one choice; do not turn every email into a colored-object story or imitate its phrasing across businesses.
 
-For substantial sales narratives, maintain a small table:
+## Original worked example: building the obstacle
 
-| Claim | Evidence available | Permissible wording | Missing evidence |
+Fictional scenario: a small team manages stock requests in several shared spreadsheets. In this illustration, team members have tried colored cells and reminder emails. A hypothetical tool assigns each request an owner and a status. This scenario is invented for explanation, not reported customer research.
+
+| Step | Build the specific problem |
+|---|---|
+| Consequences | A request appears in one sheet, nobody confirms ownership, and the team cannot tell whether it has been ordered. Someone must ask again before making a promise to a customer. |
+| External forces | Requests enter through several sheets; responsibility is not explicit; reminders add another place to look. |
+| Attempted fixes | Color-coded cells and reminder emails make requests more visible. |
+| Failure mechanism | Visibility does not establish who must act or whether the action happened. The uncertainty survives the reminder. |
+
+The antagonist is a request with no clear owner or state, rather than the abstract word disorganization. The hypothetical product is relevant because it makes those missing elements explicit. A piece can dramatize one unresolved request, explain that distinction, and return to the request at the end with its responsibility now understandable. Do not transplant these invented circumstances into another business as if they were known facts.
+
+## Original worked example: a focused edit
+
+Fictional offer: a repair shop inspects an item before confirming the work and price. The current section reads: "Premium craftsmanship. Your trusted partner for every repair. Leave your item with us and discover the difference."
+
+**Diagnosis:** The reader cannot picture the process or know when a decision about cost occurs. The obstacle is uncertainty, not lack of adjectives. Add necessary orientation and answer the objection; remove unsupported prestige.
+
+**Possible revision:** "Bring the item you want repaired. We inspect it and confirm the work and price with you before repairs begin."
+
+The direct process explanation is appropriate for this placement. It does not need a sensory hook, a dramatic villain, or an extended ending. Choosing a suitable scope is part of the method.
+
+## Sequence and launch map
+
+For a longer arc, use a compressed Save the Cat progression. This maps selected landmarks; it is not the complete 15-beat form.
+
+| Narrative role | Message's work | Local payoff | Connection forward |
 |---|---|---|---|
-| Feature exists | Current product observation or supplied specification | Describe the feature precisely | Current verification if the specification is stale |
-| Customer benefited | Attributed interview or approved case study | Report that customer's experience with context | Permission to use identifiable details |
-| Typical improvement | Representative measurement with denominator and period | State measured scope and limitations | Sample, method, baseline, uncertainty |
-| Mechanism seems plausible | Reasoned explanation only | Explain how it is intended to help | Outcome evidence before claiming effectiveness |
+| Opening image and promise | Establish the reader's world and a worthwhile destination | A useful observation about the current situation | A relevant unresolved question |
+| Theme and catalyst | Make the specific obstacle and its consequences recognizable | A clearer diagnosis or small exercise | Why the familiar response is insufficient |
+| Midpoint / reframe | Reveal the changed approach or mechanism | A demonstration or distinction | What remains to be resolved |
+| Low point / unresolved stakes | Show the credible cost of continuing unchanged and address an objection | A realistic comparison or decision criterion | What a workable solution must provide |
+| Finale / offer | Present the fitting action, proof, terms, and resolution | The information needed to decide | A concrete next step |
+| Closing image | Return to the opening situation with changed meaning | Emotional and argumentative completion | No unrelated new promise |
 
-Read a source closely enough to support the exact claim. A company homepage does not establish every implied capability. Keep private customer data out of public artifacts.
+Combine or expand roles to fit the assignment. Do not invent urgency, withhold material purchase conditions, or make every message a cliffhanger. Each installment should repay the attention it asks for.
 
-## Planning options
-
-For a causal miniature, name a familiar task, identify its interruption, explain the response, and show the immediate consequence supported by facts. This often fits product copy better than a dramatic journey.
-
-For a documented transformation, establish the baseline and constraints, describe the intervention and the person's own work, then report measured change and limitations. Keep correlation separate from causation.
-
-For a multi-part sequence, assign each installment a distinct question and a locally useful answer. Maintain a continuity note listing facts already introduced, outstanding questions, and the final action. Avoid making every installment a cliffhanger or withholding essential purchase information until the end.
-
-For diagnosis, locate where the reader loses the argument: unknown audience, missing context, unclear mechanism, absent proof, an irrelevant anecdote, or a next step that exceeds their readiness. Repair that point before changing the voice.
+Maintain a continuity note for a sequence: emotional starting state, intended ending, central obstacle, reader belief after each item, open loops, payoff locations, and offer terms. Avoid treating a launch as repeated announcements of the same feature.
 
 ## Format adaptation
 
-| Format | What to prioritize | Common failure to avoid |
-|---|---|---|
-| Landing-page section | Immediate relevance, product mechanism, proof beside the claim | Burying the offer under a long anecdote |
-| Email | Subject/body alignment, a developed idea, useful payoff, clear destination | A generic opening followed by the entire feature catalog |
-| Short social post | One useful observation and enough context to interpret it | A generic teaser that requires a click for any value |
-| Carousel | One coherent argument across slides; readable units | Slides that repeat the hook without advancing the idea |
-| Spoken script | Speakable syntax, clear references, pauses around important points | Copy that only makes sense when read visually |
-| Case study | Attributed experience, baseline, intervention, constraints | An invented composite presented as a real customer |
-| Sales conversation | A tentative understanding and space for the buyer to correct it | A monologue that assigns feelings or problems to the buyer |
+| Format | Carry the principles through |
+|---|---|
+| Single email | Subject/opening uncertainty, quick orientation, useful development, product mechanism, resolved question or callback, fitting CTA |
+| Short social post | One recognizable situation, a relevant turn or observation, one concrete image or action, earned takeaway |
+| Carousel | Orient on the opening slide; give each slide a causal role; pay off the opening question before the final ask |
+| Landing-page section | Establish the problem world, specify the obstacle, connect mechanism and proof; edit random details and competing asks |
+| Spoken script | Speakable orientation, clear referents, sensory or action-based focus, pauses for the reveal, purposeful return |
+| Case study | Documented starting state, obstacles and attempts, intervention, observed change, limitations, changed final situation |
+| Sales conversation | Check the buyer's world and obstacle; invite correction; reveal the relevant mechanism rather than narrating a monologue |
+| Content strategy | Choose the audience's emotional and belief progression; assign distinct narrative jobs to existing or proposed assets |
 
-For scripts, read aloud and time the actual text if possible. A words-per-minute estimate is approximate and depends on speaker and language. Mark visual or delivery notes separately from spoken copy. Writing a script does not imply permission to produce or publish it.
+## Facts, imagination, and missing material
 
-## Missing-information behavior
+Product mechanisms, terms, results, and customer quotations need support. A possible scene or analogy can be created; do not present it as an observed event. Lack of testimonials does not require flat copy: use a conditional scene, demonstration, or choice grounded in the actual offer.
 
-- Missing audience: infer only if the supplied material clearly identifies it; otherwise ask a focused question.
-- Missing proof: narrow the wording and state what evidence would justify a stronger claim.
-- Missing CTA destination: write a proposed CTA separately and flag the destination for verification.
-- Missing customer anecdote: use a plainly hypothetical situation or an explanation of the real feature.
-- Missing platform constraints: check current official requirements if the deliverable depends on them.
-- Existing strong voice: preserve distinctive phrasing; repair the actual comprehension or credibility issue.
-
-## Measuring response
-
-Treat a narrative change as a hypothesis: changing a particular element may affect a named behavior because of a stated reason. Define the observation that would challenge that hypothesis too.
-
-For an authorized experiment, choose one main variable, a relevant primary metric, and a guardrail such as qualified-lead rate, unsubscribes, or complaints. Keep audience, offer, and distribution comparable. Set a decision horizon appropriate to traffic and the cost of error. Report counts and denominators alongside rates. Avoid declaring a winner from a handful of actions or a simple before/after comparison with changing traffic.
-
-Example hypothesis: a more explicit description of the next step may increase completed demo requests among qualified visitors. A rise in clicks with a fall in qualified requests would challenge the proposed improvement. No increase is promised.
-
-Human reader checks and controlled experiments answer different questions. Asking a reader to explain the message can reveal confusion; it does not establish conversion lift. A model's self-review is an editorial check, never a substitute for observed readers.
+If the audience, offer, or decision-critical fact is unknown, inspect supplied context or ask a focused question. Missing proof requires narrower claims or an editorial evidence request. Do not fill it with a dramatic assertion. Keep material conditions when shortening or translating. Verify a destination before presenting it as ready to use.

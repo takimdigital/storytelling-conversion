@@ -4,9 +4,9 @@
 
 # Storytelling Conversion
 
-**An AI agent skill for clear, credible marketing stories.**
+**Eight storytelling principles for purposeful business communication.**
 
-Decide whether to answer, edit, create, investigate, or plan. Apply narrative techniques where they help, with claims grounded in evidence.
+Build attention, establish the world of a problem, make ideas imaginable, and deliver an earned resolution. Apply the method to emails, posts, pages, scripts, edits, and content strategy.
 
 [![Validate](https://github.com/takimdigital/storytelling-conversion/actions/workflows/validate.yml/badge.svg)](https://github.com/takimdigital/storytelling-conversion/actions/workflows/validate.yml)
 [![Release](https://img.shields.io/github/v/release/takimdigital/storytelling-conversion)](https://github.com/takimdigital/storytelling-conversion/releases/latest)
@@ -18,7 +18,9 @@ Decide whether to answer, edit, create, investigate, or plan. Apply narrative te
 
 ## What it does
 
-Storytelling Conversion gives an AI assistant a workflow for business communication: identify the work needed, find a useful point, develop it through a fitting approach, and check it against the brief. It can recommend changing an existing message instead of creating another asset.
+Storytelling Conversion gives an AI assistant a connected narrative method: predictive processing, establishing shots, word pictures, story structure, Chekhov's gun, a specific villain, sugar coating, and bookending. Each principle includes a procedure and an inspection, not just a reminder to write engaging copy.
+
+It first identifies the work needed. The result can be a direct answer, a focused edit, a new piece, or a narrative marketing direction. It can recommend repairing an existing message instead of producing another asset.
 
 Use it to:
 
@@ -33,15 +35,19 @@ Use it to:
 
 The skill keeps customer stories, illustrations, and measured results distinct. It gives unsupported claims a useful alternative and an evidence requirement. Short utility copy stays short.
 
-## Before and after
+## What the method changes
 
-**Brief:** A fictional reporting tool combines uploaded CSV files into one table. No customer outcomes have been measured.
+**Fictional brief:** A document-review tool shows unresolved comments beside their relevant passages. Write an email for project leads preparing a draft for approval.
 
-| Before | After |
-|---|---|
-| “Transform your productivity with revolutionary reporting. Save 80% of your time, guaranteed.” | “Combine uploaded CSV files into one table. Try the CSV combiner.” |
+An ordinary summary lists that feature. A narrative approach opens a relevant uncertainty:
 
-The revision explains the actual capability and removes the invented result. Longer narratives get the same attention to relevance and proof.
+> **Subject: The yellow mark on the last page**
+>
+> Imagine the proposal is ready to send. The paragraphs are polished. Then you reach a yellow comment on the final page: which delivery date are we promising?
+>
+> The writing is finished. The decision is still open.
+
+The body can teach a useful final-review method, introduce the tool at the relevant mechanism, and return to that mark with a changed meaning of finished. The complete [worked example](skills/storytelling-conversion/references/production.md) explains the design and payoff. This is an authored illustration, not a customer account or measured result.
 
 ## Install
 
@@ -53,7 +59,7 @@ Paste this into Codex:
 $skill-installer install https://github.com/takimdigital/storytelling-conversion/tree/main/skills/storytelling-conversion
 ```
 
-For a version-pinned installation, replace `main` with `v1.1.0`. If an existing installation conflicts, review it before replacing it. If the skill does not appear, restart Codex. See the [official skill documentation](https://learn.chatgpt.com/docs/build-skills).
+For a version-pinned installation, replace `main` with `v1.2.0`. If an existing installation conflicts, review it before replacing it. If the skill does not appear, restart Codex. See the [official skill documentation](https://learn.chatgpt.com/docs/build-skills).
 
 ### Manual installation
 
@@ -103,14 +109,25 @@ More prompts and illustrative outputs: [examples](examples/README.md).
 
 ## How it works
 
-1. **Choose the work.** Answer directly, edit, create, investigate, or propose an experiment.
-2. **Find the useful point.** Choose a specific uncertainty, distinction, demonstration, or decision.
-3. **Develop the idea.** Draft the payoff before polishing the hook; connect the product where it belongs.
-4. **Keep it grounded.** Preserve factual support, material terms, and the scope of the offer.
-5. **Review the result.** Check whether it resolves the actual question and earns the reader's attention.
-6. **Deliver proportionately.** Give the requested work, with material limitations kept separate.
+1. **Establish the assignment.** Identify the audience, awareness, offer, action, emotional starting point, and scope.
+2. **Design the obstacle and experience.** Develop the consequences, sustaining forces, attempted fixes, medicine, sugar, and desired emotional movement.
+3. **Map the narrative.** Choose a structure and its beats; connect the opening uncertainty, word picture, important setups, and closing return.
+4. **Write the requested work.** Make the product mechanism relevant to the story's actual problem.
+5. **Edit through the method.** Inspect opening orientation, imagery, line jobs, open loops, and the ending's changed meaning.
+6. **Preserve truth and scope.** Keep facts, conditions, fictional framing, voice, and permissions intact.
 
-The skill includes techniques for openings, context, concrete imagery, structure, purposeful details, specific obstacles, engaging explanations, and meaningful endings. It selects what the assignment needs.
+| Principle | Practical procedure |
+|---|---|
+| Predictive processing | Audience expectation, relevant uncertainty, sensory anchor, earned turn |
+| Establishing shot | Where, who, mood, focus; opening-only inspection |
+| Word pictures | Replace abstractions; purposeful sensory detail; mental-image exercise |
+| Structure | Select Save the Cat, PAS, Hero's Journey, or ABT for the intended experience |
+| Chekhov's gun | Setup/payoff ledger and line-job edit |
+| Villain | Consequences, external forces, attempted fixes, failure mechanism |
+| Sugar coating | Medicine, sugar, carrier, recoverable lesson |
+| Bookending | Emotional endpoints, planted element, changed meaning, removal inspection |
+
+Substantive writing considers all eight. A simple factual answer or narrow correction stays proportional to its request.
 
 ## What's included
 
@@ -130,7 +147,7 @@ The installed skill is instruction-only. It requires no API key, account connect
 
 ## Quality and limitations
 
-Automated checks validate structure, local links, scenario fixtures, and reproducible builds on Windows and Linux. Writing scenarios support qualitative review; they do not measure audience response or conversion gains. Exploratory with/without checks informed the workflow revisions, but did not establish consistent superiority over an assistant without the skill. See [evaluation guidance](evals/README.md). The skill cannot verify missing customer evidence or guarantee results.
+Repository automation checks structure, local links, scenario fixtures, and reproducible packaging. Version 1.2.0 was manually audited for completeness of the method; no new writing or agent comparison was performed for it. Earlier exploratory comparisons concerned earlier revisions and do not validate this rewrite. See [evaluation guidance](evals/README.md). The skill makes no guarantee about attention, memory, conversion, or missing customer evidence.
 
 Drafting copy does not authorize publication, scheduling, account access, spending, or deployment. Follow the permissions and project rules in your own environment.
 

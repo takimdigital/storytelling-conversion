@@ -1,46 +1,47 @@
-# Discovery and small marketing decisions
+# Discovery and narrative marketing direction
 
-Use this when the owner asks what to do next, shares a weak result without a brief, or suspects a missing communication. A useful outcome can be a clearer existing answer or a research task rather than another asset.
+Apply the eight principles to deciding what communication the business needs. The output may be an edit, a new piece, a connected sequence, or a research question. A list of platforms is not a narrative strategy.
 
-## Establish what is known
+## Start with the existing audience experience
 
-Inspect the message, offer, user path, recent content, and operational constraints. Reconcile dated notes against current state. If audience evidence is available, retain actual language and context; a few comments suggest a question to investigate, not market prevalence.
+Inspect the offer, user path, actual copy, existing and planned content, audience language, and operational constraints. Prefer current records over old launch assumptions. Distinguish observation from interpretation. When audience evidence is absent, state the working hypothesis rather than inventing demand.
 
-Separate observation (what the evidence shows), interpretation (why it may matter), and proposed action (what to change or learn). Sparse evidence permits a bounded creative experiment. It does not require a new campaign or establish the best channel.
+Ask what the audience currently expects, sees, understands, feels, and tries. Identify the next decision the business wants to support. Then locate the gap through the same method used for writing:
 
-## Choose the communication job
-
-Identify the audience's nearest decision and what prevents understanding or action. Possible jobs include understanding the category, trusting a mechanism, knowing a restriction, comparing an option, or starting a useful first action.
-
-| Situation | Candidate intervention |
+| Discovery signal | Principle and possible intervention |
 |---|---|
-| An answer is present but buried | Reorder or shorten existing copy |
-| A necessary term is ambiguous | Clarify it where the decision occurs |
-| Several assets repeat the message | Consolidate or change the argument's role before drafting more |
-| An important objection lacks evidence | Gather relevant evidence before choosing a message |
-| A known problem lacks explanation | Draft a purposeful new piece |
-| Nobody knows where people stop | Inspect the path or available measurement before assigning a content remedy |
+| Openings are interchangeable product announcements | Predictive processing: find a consequential uncertainty, relevant sensory anchor, or unexpected implication |
+| Readers cannot explain who the offer is for or when it matters | Establishing shot: repair context and focus in the entry point |
+| Copy is abstract or the wrong detail dominates | Word pictures: replace summaries and redirect imagery toward the takeaway |
+| Content exists but does not progress toward a decision | Structure: assign missing beats and connect existing assets |
+| Important claims, details, or promises lead nowhere | Chekhov's gun: reconnect or remove them before adding another asset |
+| The problem feels generic and the solution interchangeable | Villain: investigate consequences, external forces, attempted fixes, and failure mechanisms |
+| Necessary information is useful but hard to stay with | Sugar coating: change its carrier, such as a demonstration or decision, while preserving the lesson |
+| Messages end without resolving the opening concern | Bookending: complete the promised understanding or emotional movement |
 
-This is not a universal priority order. Choose the intervention that addresses the actual gap at appropriate cost. A major objection may warrant new content; minor redundancy may need deletion.
+## Build a direction around a real obstacle
 
-## Make a strategic choice
+Use the four-step villain build to clarify what the audience struggles with. If prior attempts or their failures are unknown, identify the exact question to investigate. A useful discovery task may be asking relevant readers what they tried and where it broke down, or inspecting the actual process. Do not substitute a generic claim that people need confidence.
 
-For a limited-time plan, specify:
+Map the desired emotional and belief progression: present situation → recognized obstacle → understandable mechanism → credible next action. Choose a structure for that progression and the audience's awareness. Select the medicine and sugar for each stage.
 
-1. **Working bottleneck:** what may prevent the next audience decision, with the evidence limit.
-2. **Chosen action:** what will be edited, drafted, inspected, or learned and why it beats the nearest alternative here.
-3. **Concrete result:** proposed copy, artifact, or question to investigate. Do not stop at "improve messaging."
-4. **Feasible allocation:** include review, setup, and relevant language work in the time and budget.
-5. **Decision rule:** what would justify keeping, revising, or abandoning the idea. Separate comprehension from sales behavior.
+Then inventory what already performs those jobs. Keep effective material. Repair buried answers, missing context, weak images, abandoned promises, or repeated messages. Propose a new asset only when it fills a meaningful role. A second platform does not automatically create a new angle.
 
-Reuse a covered angle only with a clear additional job, audience, or placement. A different platform alone does not make it new. Name the added value instead of calling covered material a gap.
+## Plan a small coherent intervention
 
-When measurement is absent, choose an attainable evidence source: inspect the experience, ask relevant readers to explain the offer, or use existing authorized analytics. State limitations. Do not prescribe unavailable tracking as if setup were free or turn three hours into an analytics implementation.
+For a time- or budget-limited recommendation, provide:
 
-## Translate direction into communication
+1. The working communication problem and its evidence limit.
+2. The audience state and desired emotional or belief change.
+3. The relevant principles, selected structure, and reason this intervention matters.
+4. The concrete edit, concept, or sequence; include proposed copy where useful.
+5. A realistic allocation including review, setup, and language work.
+6. The observation that would justify keeping, revising, or dropping the idea.
 
-State the audience situation, central question, useful realization, and next action. Choose the format that serves that job. An email, FAQ correction, landing-page edit, demonstration, or no new post may each be appropriate.
+For a sequence, assign each item a distinct narrative role, local payoff, and relationship to the eventual offer. Plan important open loops and the final bookend. Do not inflate a small request into an entire launch or research program.
 
-For a sequence, give each item a distinct role in the same argument. A calendar becomes a strategy only when it explains what the sequence should change and how the business will learn.
+## Match the evidence to the conclusion
 
-Preparing, approving, and publishing remain separate actions. Propose external actions conditionally when they require authorization.
+A few audience questions can reveal an ambiguity without establishing prevalence or commercial impact. Available analytics can suggest where to inspect, but do not prove that a narrative technique caused a result. When measurement is unavailable, a feasible comprehension check or bounded creative experiment may be enough for the immediate decision.
+
+Keep drafts, approval, and publication separate. Strategy does not authorize account access, spending, scheduling, or deployment. The purpose here is a useful communication decision, not an unsolicited operations overhaul.
