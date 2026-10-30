@@ -46,6 +46,18 @@ def validate(root: Path = ROOT) -> list[str]:
             errors.append('SKILL.md requires YAML frontmatter')
         else:
             fields = dict(re.findall(r'^(name|description): (.+)$', front.group(1), re.M))
+            # This repository uses single-line plain or JSON-quoted YAML
+            # scalars. A colon followed by space is invalid in a plain value.
+            for key, value in list(fields.items()):
+                if value.startswith('"'):
+                    try:
+                        fields[key] = json.loads(value)
+                        if not isinstance(fields[key], str):
+                            errors.append(f'{key} must be a string')
+                    except ValueError:
+                        errors.append(f'{key} has invalid quoted metadata')
+                elif ': ' in value:
+                    errors.append(f'{key} must be double-quoted when it contains a colon followed by space')
             if fields.get('name') != skill_dir.name:
                 errors.append('Skill name must match its folder')
             if not fields.get('description'):

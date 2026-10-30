@@ -1,6 +1,6 @@
 ---
 name: storytelling-conversion
-description: Apply eight storytelling principles to business communication: predictive processing, establishing shots, word pictures, story structure, Chekhov's gun, a specific villain, sugar coating, and bookending. Use for writing or improving emails, posts, landing pages, scripts, sales narratives, and content strategy; also for discovering what existing content to edit, remove, or develop. Adapt the method to the business, audience, and request; answer direct factual questions plainly.
+description: "Apply eight storytelling principles to business communication: predictive processing, establishing shots, word pictures, story structure, Chekhov's gun, a specific villain, sugar coating, and bookending. Use for writing or improving emails, posts, landing pages, scripts, sales narratives, and content strategy; also for discovering what existing content to edit, remove, or develop. Adapt the method to the business, audience, and request; answer direct factual questions plainly."
 ---
 
 # Storytelling Conversion

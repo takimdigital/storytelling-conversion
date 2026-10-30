@@ -59,7 +59,7 @@ Paste this into Codex:
 $skill-installer install https://github.com/takimdigital/storytelling-conversion/tree/main/skills/storytelling-conversion
 ```
 
-For a version-pinned installation, replace `main` with `v1.2.0`. If an existing installation conflicts, review it before replacing it. If the skill does not appear, restart Codex. See the [official skill documentation](https://learn.chatgpt.com/docs/build-skills).
+For a version-pinned installation, replace `main` with `v1.2.1`. If an existing installation conflicts, review it before replacing it. If the skill does not appear, restart Codex. See the [official skill documentation](https://learn.chatgpt.com/docs/build-skills).
 
 ### Manual installation
 

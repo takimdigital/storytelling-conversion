@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.1 — 2026-10-30
+
+- Corrected description quoting in the skill's YAML frontmatter.
+- Tightened the repository validator to reject unquoted colon-space values in required metadata.
+- Use this version rather than 1.2.0; the narrative-method rewrite is unchanged.
+
 ## 1.2.0 — 2026-10-30
 
 - Rebuilt the skill around eight explicit storytelling principles and their practical procedures.
